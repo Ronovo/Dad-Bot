@@ -1,0 +1,98 @@
+FOAAS
+---------------------
+anyways (name)
+asshole
+awesome
+back (name)
+bag
+ballmer(name)
+bday(name)
+because
+bucket
+chainsaw (name)
+cocksplat (name)
+cool
+cup
+diabetes
+everyone
+everyone (password)
+everything
+family
+flying
+fyyff
+give
+greed (noun)
+immensity
+keep (name)
+keepCalm (action)
+life
+looking
+madison (name)
+me
+mornin
+no
+nugget
+off (name)
+outside (name)
+particular (problem)
+programmer
+
+OTher Ideas
+------------------
+S&S radio
+
+EEEDDDDOONENEEEEE
+DONEEE chuck norris joke api
+(https://api.chucknorris.io/)
+Pokemon API
+(https://pokeapi.co/)
+
+#DONEEEEEEEEEE
+Iss Tracker
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
+
+Beer Tracker
+https://www.brewerydb.com/
+
+Full On Radio Bot (idea)
+
+Numbers API
+http://numbersapi.com/#42
+
+Translator
+https://funtranslations.com/api
+
+Country
+https://restcountries.eu/
+
+Nasa
+https://api.nasa.gov/index.html
+
+jService - Trivia
+http://jservice.io/
+
+Cat Facts
+https://alexwohlbruck.github.io/cat-facts/
+
+Kitsu - Anime API
+https://kitsu.docs.apiary.io/#
+
+Taco API
+https://github.com/evz/tacofancy-api
+
+Advice
+https://api.adviceslip.com/
+
+Anime
+https://wiki.anidb.net/w/API
+
+Slap Bot
+https://market.mashape.com/ConflictGames/slapbot#appreciate
+
+Dog API
+https://www.thedogapi.co.uk/documentation.php
+
+Ron Swanson Quotes
+https://github.com/jamesseanwright/ron-swanson-quotes
+
